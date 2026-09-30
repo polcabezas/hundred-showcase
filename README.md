@@ -4,7 +4,7 @@
 
 A private, two-person 100-day-challenge PWA built for me and my partner. Every day you both tap your goals; miss one and the run resets to day 1. Real push notifications, live updates, and a design system that's pure black and bold Helvetica.
 
-**Live app:** https://hundred-ashy.vercel.app (invite-only, exactly two seats)
+**Live app:** invite-only, exactly two seats.
 **Source:** private. This repo is the case study.
 
 <p align="center">
